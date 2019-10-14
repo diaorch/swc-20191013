@@ -1,0 +1,26 @@
+cubane.pdb
+ethane.pdb
+methane.pdb
+octane.pdb
+pentane.pdb
+propane.pdb
+Alanine		Ala
+Arginine	Arg
+Asparagine	Asn
+Aspartic acid	Asp
+Cysteine	Cys
+Glutamic acid	Glu
+Glutamine	Gln
+Glycine		Gly
+Histidine	His
+Isoleucine	Ile
+Leucine		Leu
+Lysine		Lys
+Methionine	Met
+Phenylalanine	Phe
+Proline		Pro
+Serine		Ser
+Threonine	Thr
+Tryptophan	Trp
+Tyrosine	Tyr
+Valine		Val
